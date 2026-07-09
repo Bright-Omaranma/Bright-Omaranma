@@ -13,7 +13,7 @@ My goal is to build a career in Security Operations (SOC), Penetration Testing, 
  ## Projects              | Description                                                    |  Repository
  OSINT investigator        Conducted on OSINT Investigator on a target system               Coming soon 
  Log Analysis               Anaylzed IIS and windows event logs to identifly attacks        Coming soon
- 💻## Skills 
+ ## Skills 
  ### Operating Systems
  - Windows
  - Linux
@@ -31,13 +31,13 @@ My goal is to build a career in Security Operations (SOC), Penetration Testing, 
 - Metasploit 
 - Git
 - GitHub
-📚## Certifications
+  ## Certifications
 - ISC² Certified in Cybersecurity (CC) 
 - CompTIA Security+ (In Progress)
-🎓## Education
- ### NIIT Port Harcourt
+  ## Education
+  NIIT Port Harcourt
  - Cybersecurity Programme
- ### University of Port Harcourt 
+  University of Port Harcourt 
  - B.Sc. Policy and Administrative Studies
 ## Connect With Me
 - Email: brightomaranma34@gmail.com
