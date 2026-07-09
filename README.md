@@ -37,7 +37,7 @@ My goal is to build a career in Security Operations (SOC), Penetration Testing, 
   ## Education
   NIIT Port Harcourt
  - Cybersecurity Programme
-  University of Port Harcourt 
+  -University of Port Harcourt 
  - B.Sc. Policy and Administrative Studies
 ## Connect With Me
 - Email: brightomaranma34@gmail.com
