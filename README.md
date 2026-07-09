@@ -1,7 +1,8 @@
-Hi, I'm Bright Madubuochi Omaranma
+👋 Hi, I'm Bright Madubuochi Omaranma
 ## About me
-I am a cybercerity student at NIIT Port Harcourt, passsionate about offensive and defensive cybersecurity
-I enjoy building partical cybersecurity projects that demonstrates real world skills in: 
+I am a Cybersecurity student at NIIT Port Harcourt with a strong passion for both offensive and defensive cybersecurity. I enjoy building practical, hands-on projects that demonstrate real-world security skills while continuously expanding my knowledge through labs, research, and Capture The Flag (CTF) challenges.
+
+My goal is to build a career in Security Operations (SOC), Penetration Testing, Digital Forensics, and Threat Hunting.I am a cybersecurity student at NIIT PortHarcourt, passionate about offensive and defensive cybersecurity I enjoy building practical cybersecurity projects that demonstrates real world skills in:
 - Penertaion Testing 
 - Log Analysis 
 - Walware Anlaysis 
@@ -12,7 +13,7 @@ I enjoy building partical cybersecurity projects that demonstrates real world sk
  ## Projects              | Description                                                    |  Repository
  OSINT investigator        Conducted on OSINT Investigator on a target system               Coming soon 
  Log Analysis               Anaylzed IIS and windows event logs to identifly attacks        Coming soon
- ## Skills 
+ 💻## Skills 
  ### Operating Systems
  - Windows
  - Linux
@@ -29,13 +30,15 @@ I enjoy building partical cybersecurity projects that demonstrates real world sk
 - Burp suite
 - Metasploit 
 - Git
-- GitHub|
-## Certifications
-- ISC2 Certified in cybersecurity 
-- CompTIA Security+ (in progress)
-## Education
-- University of Calabar, Calabar: Policy and Administrative Studies 
-- NIIT Port Harcourt: Cybersecurity Programe 
-## Contact
+- GitHub
+📚## Certifications
+- ISC² Certified in Cybersecurity (CC) 
+- CompTIA Security+ (In Progress)
+🎓## Education
+ ### NIIT Port Harcourt
+ - Cybersecurity Programme
+ ### University of Port Harcourt 
+ - B.Sc. Policy and Administrative Studies
+## Connect With Me
 - Email: brightomaranma34@gmail.com
-- Facebook: Bright Omaranma
+  
