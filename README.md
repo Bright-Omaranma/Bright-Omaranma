@@ -45,41 +45,29 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 ## 💻 Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ## 🌐 Networking
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue)
-
 ![DNS](https://img.shields.io/badge/DNS-Domain%20Resolution-green)
-
 ![HTTP](https://img.shields.io/badge/HTTP-Web%20Protocol-orange)
-
 ![SSH](https://img.shields.io/badge/SSH-Secure%20Access-purple)
-
 ![FTP](https://img.shields.io/badge/FTP-File%20Transfer-red)
-
 ![TELNET](https://img.shields.io/badge/TELNET-Remote%20Access-yellow)
 
 ## 🔐 Cybersecurity Tools
 
 ![Nmap](https://img.shields.io/badge/Nmap-blue)
-
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white)
-
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD)
 
 ## ⚙️ Dev & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ---
