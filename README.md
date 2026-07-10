@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Hi,%20I'm%20Bright%20Omaranma&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Entry-Level%20Cybersecurity%20Analyst%20%7C%20SOC%20%7C%20Log%20Analysis&descAlignY=55&descSize=18" />
 </p>
@@ -9,7 +10,7 @@
   <a href="https://github.com/Bright-Omaranma">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+  <a href="https://www.linkedin.com/in/bright-omaranma-2986b9386/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -97,7 +98,7 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 
 | Institution | Programme | Status |
 |-------------|-----------|--------|
-| 🏛️ University of Calabar | Computer Science | ✅ Completed |
+| 🏛️ University of Calabar | Policy And Administrative Studies | ✅ Completed |
 | 🏫 NIIT Port Harcourt | Cybersecurity Programme | ✅ Completed |
 
 ---
@@ -106,7 +107,7 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ateke-Nengi&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ateke-Nengi&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright-Omaranma&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -114,8 +115,8 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 ## 📬 Contact
 
 <p align="center">
-  <a href="mailto:brightomarana34@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-brightomaranma34@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:brightomaranma34@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-nengiprecious74@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
