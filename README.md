@@ -53,10 +53,15 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 ## 🌐 Networking
 
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue)
+
 ![DNS](https://img.shields.io/badge/DNS-Domain%20Resolution-green)
+
 ![HTTP](https://img.shields.io/badge/HTTP-Web%20Protocol-orange)
+
 ![SSH](https://img.shields.io/badge/SSH-Secure%20Access-purple)
+
 ![FTP](https://img.shields.io/badge/FTP-File%20Transfer-red)
+
 ![TELNET](https://img.shields.io/badge/TELNET-Remote%20Access-yellow)
 
 ## 🔐 Cybersecurity Tools
@@ -113,7 +118,7 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ateke-Nengi&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bright-Omaranma&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright-Omaranma&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
