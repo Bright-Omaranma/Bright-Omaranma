@@ -117,7 +117,7 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bright-Omaranma&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
----
+
 
 ## 📬 Contact
 
