@@ -50,14 +50,14 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
-🌐 Networking
+## 🌐 Networking
 
-!TCP/IP
-!DNS
-!HTTP
-!SSH
-!FTP
-!TELNET
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue)
+![DNS](https://img.shields.io/badge/DNS-Domain%20Resolution-green)
+![HTTP](https://img.shields.io/badge/HTTP-Web%20Protocol-orange)
+![SSH](https://img.shields.io/badge/SSH-Secure%20Access-purple)
+![FTP](https://img.shields.io/badge/FTP-File%20Transfer-red)
+![TELNET](https://img.shields.io/badge/TELNET-Remote%20Access-yellow)
 
 ## 🔐 Cybersecurity Tools
 
