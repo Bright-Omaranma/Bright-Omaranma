@@ -42,11 +42,13 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 
 ## 🛠️ Tools & Technologies
 
-💻 Operating Systems
+## 💻 Operating Systems
 
-!Linux
-!Kali Linux
-!Windows
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 🌐 Networking
 
@@ -57,18 +59,23 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 !FTP
 !TELNET
 
-🔐 Cybersecurity Tools
+## 🔐 Cybersecurity Tools
 
-!Nmap
-!Wireshark
-!Burp Suite
-!Metasploit
+![Nmap](https://img.shields.io/badge/Nmap-blue)
 
-⚙️ Dev & Version Control
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
 
-!Git
-!GitHub
-!Bash
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD)
+
+## ⚙️ Dev & Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
 ---
 
@@ -116,7 +123,7 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 
 <p align="center">
   <a href="mailto:brightomaranma34@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nengiprecious74@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-brightomaranma34@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
