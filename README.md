@@ -87,10 +87,45 @@ Currently seeking entry-level SOC Analyst / Junior Security Analyst roles where 
 
 ## 🏆 Certifications
 
-| Badge | Certification | Status |
-|-------|--------------|--------|
-| !ISC2 | ISC2 Certified in Cybersecurity (CC) | ✅ Completed |
-| !CompTIA | CompTIA Security+ | 🔄 In Progress |
+| 
+ Badge 
+| 
+ Certification 
+| 
+ Status
+|
+|
+-------
+|
+--------------
+|--------
+|
+| 
+!
+[
+ISC2
+](
+https://img.shields.io/badge/ISC2-006400?style=flat-square&logo=isc2&logoColor=white
+) 
+| 
+ ISC2 Certified in Cybersecurity (CC) 
+| 
+ ✅ Completed 
+|
+| 
+!
+[
+CompTIA
+](
+https://img.shields.io/badge/CompTIA-C8202?style=flat-square&logo=comptia&logoColor=white
+) 
+| 
+ CompTIA Security+ 
+|
+ 🔄 In Progress 
+|
+
+---
 
 ---
 
